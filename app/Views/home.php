@@ -77,7 +77,7 @@
         <a href="#">Home</a>
         <a href="#">About</a>
         <a href="#">Departments</a>
-        <a href="#">Contact</a>
+        <a href="#">Contacts</a>
         <a href="login.php">Staff Login</a>
     </nav>
 
